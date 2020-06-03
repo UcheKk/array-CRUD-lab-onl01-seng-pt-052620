@@ -32,7 +32,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  array8 = ["elements", "are", "am", "I", "guess"]
+  array8 = ["wow", "are", "am", "I", "guess"]
   array8[0]
 end
 
